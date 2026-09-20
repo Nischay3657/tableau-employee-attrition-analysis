@@ -76,7 +76,7 @@ The dataset contains employee-level information including demographics, job char
 View the interactive dashboard:
 
 [Employee Attrition & Retention Analysis | Tableau Public]
-https://public.tableau.com/app/profile/vijay.rao3638/viz/employee-attrition-dashboard/Dashboard1?publish=yes
+employee-attrition-dashboard | Tableau Public  
 
 ## Author
 
